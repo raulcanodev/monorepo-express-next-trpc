@@ -1,0 +1,1 @@
+Add   `"ui": "tui",` to turbo.json in the root to change the terminal UI
