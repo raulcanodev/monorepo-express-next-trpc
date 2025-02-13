@@ -20,7 +20,7 @@ cp packages/database/.env.example packages/database/.env
 ```
 
 ```bash
-# Make the database script executable
+# Make the create database script executable
 chmod +x scripts/create-database.sh
 
 # Start PostgreSQL in Docker
