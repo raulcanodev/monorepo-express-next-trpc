@@ -51,9 +51,8 @@ pnpm dev
 
 ## The application should now be running at:
 
-Frontend: http://localhost:3000
-
-Backend: http://localhost:4000
+- Frontend: http://localhost:3000
+- Backend: http://localhost:4000
 
 ## Project Structure
 
