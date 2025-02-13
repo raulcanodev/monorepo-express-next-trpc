@@ -67,4 +67,4 @@ Backend: http://localhost:4000
 │   └── trpc/        # tRPC router and types
 └── scripts/
     └── create-database.sh        # Database setup script
-```# monorepo-express-next-trpc
+```
